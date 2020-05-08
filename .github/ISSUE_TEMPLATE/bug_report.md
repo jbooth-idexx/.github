@@ -1,5 +1,5 @@
 ---
-name: Default Bug report
+name: Default - Bug report
 about: Create a report to help us improve
 title: ''
 labels: 'bug'
