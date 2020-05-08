@@ -11,9 +11,9 @@ assignees: ''
 A clear and concise description of what the problem is.
 
 **Acceptance:**
-- [] Acceptance Criteria 
-- [] Acceptance Criteria 
-- [] Acceptance Criteria 
+- [ ] Acceptance Criteria 
+- [ ] Acceptance Criteria 
+- [ ] Acceptance Criteria 
 
 **Implementation Notes:**
 A clear and concise description of any implementation deatials to be considered.
